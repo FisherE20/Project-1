@@ -62,6 +62,22 @@ p{
     color: black;
 }
 
+nav {
+  float: left;
+  width: 28%;
+  height: 400px; 
+  background: #ccc;
+  padding: 20px;
+}
+
+#photos {
+  float: right;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 400px; 
+}
+
 @-webkit-keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
