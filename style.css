@@ -55,6 +55,10 @@ img {vertical-align: middle;}
 
 h1{
     text-align: center;
+    color: #363636;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.125;
 }
 
 p{
@@ -76,6 +80,15 @@ nav {
   width: 70%;
   background-color: #f1f1f1;
   height: 400px; 
+}
+
+.box {
+  background-color: #e2dfd1;
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em #0a0a0a, 0 0 0 1px rgba(10,10,10,.02);
+  color: #4a4a4a;
+  display: block;
+  padding: 3.25rem;
 }
 
 @-webkit-keyframes fade {
